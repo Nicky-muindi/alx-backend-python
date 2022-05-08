@@ -1,8 +1,8 @@
-0x003. Unittests and Integration Tests
+## 0x003. Unittests and Integration Tests
 
 ## Description
 
-I practised unittests and intergration tests in python as I did tge tasjs in this project.
+I practised unittests and intergration tests in python as I did the tasks in this project.
 ```
 –unittest — Unit testing framework
 –unittest.mock — mock object library
